@@ -1,15 +1,17 @@
 # python-examples
 
-# basic python programs 
+Basic Python Programs 
 
-# Some Useful Applications 
 
-# 1. Github Search - API :: 
+# Applications :
+
+1. Github Search - API :: 
     
-   returns the github repositories based on applied filters like Number of Starts for the Repo , Language used in the Repo 
+       returns the github repositories based on filters " Number of Stars " , " Programming Language " the repository has.
    
-   # Steps to Run the program :: 
+   Steps to Run the program :: 
    
-   1. pip install -r requirements.txt
-   2. run the program -> python3 github_api.py
+       pip install -r requirements.txt
+       
+       python3 github_api.py
     
